@@ -52,10 +52,7 @@ This project is a fun and educational way to understand how computers can recogn
 Have fun and happy learning!
 
 ![Starting Page]![1](https://github.com/KALANITHII/Hand_Written_Recognition_for_Children_Using_Streamlite/assets/94750661/4cd5dacd-7dba-4509-8dbe-c96387934f6f))
-![Drawing_Page](![image](https://github.com/KALANITHII/Hand_Written_Recognition_for_Children_Using_Streamlite/assets/94750661/0a44d805-8af5-47e7-ad01-9a916b52f190)
-)
-![Prediction_Page](![image](![image](https://github.com/KALANITHII/Hand_Written_Recognition_for_Children_Using_Streamlite/assets/94750661/d3dafc39-2d1d-46f5-ad5b-2af7f0e42767)
-)
-)
+![Drawing_Page](![2](https://github.com/KALANITHII/Hand_Written_Recognition_for_Children_Using_Streamlite/assets/94750661/0a44d805-8af5-47e7-ad01-9a916b52f190)
+![Prediction_Page](![3](![image](https://github.com/KALANITHII/Hand_Written_Recognition_for_Children_Using_Streamlite/assets/94750661/d3dafc39-2d1d-46f5-ad5b-2af7f0e42767))
 
 
