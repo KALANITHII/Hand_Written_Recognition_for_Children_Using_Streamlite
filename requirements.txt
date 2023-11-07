@@ -1,0 +1,12 @@
+streamlit
+numpy
+opencv-python
+scikit-learn
+pillow
+matplotlib
+torch
+gtts
+ipython
+scikit-neuralnetwork
+streamlit-drawable-canvas
+skorch
