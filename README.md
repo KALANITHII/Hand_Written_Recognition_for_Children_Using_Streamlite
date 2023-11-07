@@ -1,7 +1,7 @@
 # Hand_Written_Recognition_for_Children_Using_Streamlite
 
 ## Introduction
-This project is designed to help you understand how computers can recognize handwritten digits. We'll use a special type of software called a neural network to do this. You can draw a digit on a canvas, and the computer will try to recognize it!
+This project is designed to help Children (about 5th std) understand how computers can recognize handwritten digits. We'll use a special type of software called a neural network to do this. Children can draw a digit on a canvas and they can change the parameters of the model for fun  , and the computer will try to recognize it!
 
 ## Prerequisites
 Before you start, make sure you have the following Python libraries installed:
@@ -47,7 +47,7 @@ You can install these libraries using the `pip install` command.
 - You get to change the settings (Dropout Rate, Learning Rate, Max Epochs) to see how they affect the computer's learning and prediction.
 
 ## Conclusion
-This project is a fun and educational way to understand how computers can recognize handwritten digits using neural networks. Feel free to explore, draw different digits, and see how changing the model parameters impacts the results!
+This project is a fun and educational way to understand how computers can recognize handwritten digits using neural networks especially designed for children about 5the class .They are free to explore, draw different digits, and see how changing the model parameters impacts the results!
 
 Have fun and happy learning!
 # Handwritten Digit Recognition Using Streamlit
